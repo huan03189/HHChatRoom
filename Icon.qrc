@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>HHCharRoomIcon/chat.png</file>
+        <file>HHCharRoomIcon/log.png</file>
+        <file>HHCharRoomIcon/MainIcon.png</file>
+        <file>HHCharRoomIcon/reg.png</file>
+        <file>HHCharRoomIcon/cat.png</file>
+        <file>HHCharRoomIcon/connect.png</file>
+        <file>HHCharRoomIcon/send.png</file>
+        <file>HHCharRoomIcon/sun.png</file>
+        <file>HHCharRoomIcon/private.png</file>
+        <file>HHCharRoomIcon/1.png</file>
+        <file>HHCharRoomIcon/2.png</file>
+        <file>HHCharRoomIcon/3.png</file>
+        <file>HHCharRoomIcon/4.png</file>
+        <file>HHCharRoomIcon/5.png</file>
+        <file>HHCharRoomIcon/6.png</file>
+        <file>HHCharRoomIcon/7.png</file>
+        <file>HHCharRoomIcon/8.png</file>
+        <file>HHCharRoomIcon/9.png</file>
+    </qresource>
+</RCC>
